@@ -1,5 +1,4 @@
-## Para correr el proyecto
-
+## Try your self
 `npm install`
 
 `npm run dev`
